@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d1f8e9e7-0b51-472f-bdaf-82cf43ded53d" name="MyGitHub" url="git@github.com:igorcbtr/WeatherForeCastApp-Kotlin.git">
+        <fileTransfer accessType="SFTP" sshConfigId="b47b22cb-af75-49d8-a4f6-3dc425c6ec8a" sshConfig="MyGitHub">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

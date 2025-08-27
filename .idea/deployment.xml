@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="MyGitHub" uploadOnCheckin="d1f8e9e7-0b51-472f-bdaf-82cf43ded53d" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="MyGitHub">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="MyGitHub" />
+  </component>
+</project>
